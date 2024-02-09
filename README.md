@@ -13,3 +13,9 @@
 #### > To support this, we examined the general trend of churn rate with types of contracts. The 1-2 month contract experiences the highest churn compared to 1 and 2-year contracts.
 #### > Although more people are using DSL internet service, there is less churn associated with this service as compared to Fiber Optic.
 #### > Customers who have tech support, online backup, and device protection experience a lower churn rate compared to those who do not have these services.
+#
+#
+#
+#
+#
+(This project is a part of the PWC Virtual Internship.)
