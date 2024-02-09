@@ -4,7 +4,7 @@
 #### Used Power BI and MS Excel to retrieve customer demographic data and generate insights relevant to key performance indicators (KPIs) for the retention manager.
 # 
 
-![Model 1 ROC AUC Curve](https://imgur.com/jQ6EcC7.png)
+![](https://imgur.com/ehkK8kd.png)
 #
 ### Findings:
 #### > The total number of admin tickets raised is 3632, and for tech tickets, it is 2955.
